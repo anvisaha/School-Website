@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+#myNavbar {
+    background-color: #333333;
+}
+#schoolimg {
+    width: 95%;
+    height: 95%;
+    margin-top: 10px;
+}
+html {
+    scroll-behavior: smooth;
+}
+#principal {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+.travel_mainDiv hr {
+    width: 100
+}
+.movie_head i {
+    float: right;
+}
+.movie_head {
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%; 
+    display: inline-block;
+}
+.movie_text span { 
+    color: #ff7700;
+}
+.schoolnews li {
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.imgalumni {
+    width: 100%;
+    height: 350px;
+}
